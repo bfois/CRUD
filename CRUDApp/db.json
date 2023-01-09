@@ -1,0 +1,38 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone",
+      "category": "Electronic",
+      "price": 1300,
+      "comment": "PRO MAX 14",
+      "date": "2023-01-09T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Table Sony",
+      "category": "Electronic",
+      "price": 700,
+      "comment": "8GB ram",
+      "date": "2023-01-09T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Desktop PC",
+      "category": "Electronic",
+      "price": 2500,
+      "comment": "16gb",
+      "date": "2023-01-09T03:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
